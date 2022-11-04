@@ -9,7 +9,7 @@ class GeneralManager():
     Welcome to Constructor
 
     Syntax:
-    [!] fcf.py [c|delete|capp|smtp|write_html] [files_name|default|extends]
+    [!] fcf.py [c|delete|capp|stmp|write_html] [files_name|default|extends]
 
         Parameters:        
         c <name>       -   create new html json css js files
