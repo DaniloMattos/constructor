@@ -6,7 +6,7 @@ argV = sys.argv
 
 class GeneralManager():
     """
-    Welcome to Construct
+    Welcome to Constructor
 
     Syntax:
     [!] fcf.py [c|delete|capp|smtp|write_html] [files_name|default|extends]
